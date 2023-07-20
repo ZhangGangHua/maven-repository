@@ -106,10 +106,6 @@
     </build>
 
     <dependencies>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter</artifactId>
-        </dependency>
         <!--导入es的rest-high-level-client-->
         <dependency>
             <groupId>org.elasticsearch.client</groupId>
