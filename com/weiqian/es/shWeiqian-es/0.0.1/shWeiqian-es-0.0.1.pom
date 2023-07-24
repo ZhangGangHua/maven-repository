@@ -8,11 +8,11 @@
         <version>2.3.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.youchao.es</groupId>
-    <artifactId>shYouchao-es</artifactId>
+    <groupId>com.weiqian.es</groupId>
+    <artifactId>shWeiqian-es</artifactId>
     <version>0.0.1</version>
-    <name>shYouchao-es</name>
-    <description>Elasticsearch for shanghai YouChao company</description>
+    <name>shWeiqian-es</name>
+    <description>Elasticsearch for shanghai weiqian company</description>
     <packaging>jar</packaging>
 
     <properties>
@@ -22,7 +22,7 @@
         <github.global.server>github</github.global.server>
     </properties>
     <build>
-        <finalName>shYouchao-es</finalName>
+        <finalName>shWeiqian-es</finalName>
         <!-- 此tag下面的所有plugins都是关于上传jar包的依赖 -->
         <plugins>
             <plugin>
